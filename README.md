@@ -1,12 +1,4 @@
-# Fundamentos
-
-## Description
-This project demonstrates basic TypeScript and JavaScript functionalities.
-
-## Installation
-To install the dependencies, run:
-
-# Fundamentos
+# Fundamentals typescript
 
 ## Description
 This project demonstrates basic TypeScript and JavaScript functionalities.
